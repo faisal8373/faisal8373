@@ -1,49 +1,67 @@
-# Faisal Javed - React Native Mobile App Developer
+# Faisal Javed 🌟 | React Native Mobile App Developer
 
-Welcome to my GitHub profile! I am an aspiring **React Native Mobile App Developer** with hands-on experience in modern mobile and web technologies. Passionate about building innovative mobile applications, I am eager to collaborate and contribute to dynamic development teams.
+**Passionate about building modern, innovative mobile applications.** I specialize in **React Native** and the **MERN Stack**, with experience in creating seamless user experiences and integrating cutting-edge technologies.
 
-## 🔥 About Me
-I have a solid understanding of **React Native** fundamentals, including components, state management, props handling, and navigation. My experience also includes:
+---
 
-- **MERN Stack** (MongoDB, Express, React, Node.js)
-- Integrating **Firebase** for database operations, authentication, storage, functions, and email handling
-- API integration to enhance app functionalities
-- Deployment of single-page applications on **Vercel**
+## 🔧 Tech Stack
+- **Languages:** HTML | CSS | JavaScript | Python
+- **Frameworks & Libraries:** React | React Native | Node.js | Express
+- **Databases:** MongoDB | Firebase (Firestore, Realtime DB)
+- **Cloud & Hosting:** Firebase | Vercel
+- **Tools:** Git | GitHub | VS Code
+
+---
+
+## 🛠️ Skills & Expertise
+- **Frontend Development:** Responsive UI, Pixel-perfect Figma designs
+- **State Management:** React Context, Redux
+- **Firebase Integration:** Authentication, Cloud Functions, Firestore, Storage
+- **APIs:** REST API Integration, Node.js Backend
+- **App Deployment:** Single-page apps on Vercel
+
+---
 
 ## 💼 Work Experience
 
-### Fusion Wave Private Limited (June 2024 - Present)
-- Developed pixel-perfect UIs from **Figma** designs
-- Integrated **Firebase** for storage, real-time data, authentication, and cloud functions
-- Implemented **React Native Vision Camera** for advanced camera functionalities
-- API integration and **Vercel** deployment
+### Fusion Wave Private Limited | **React Native Developer**  
+*June 2024 – Present*
+- 📱 **Figma to Pixel-Perfect UI** implementation  
+- 🚀 **Bug Fixes & Performance Enhancements**  
+- 🔄 **State Management** & Navigation solutions  
+- 🔥 Integrated **Firebase** for storage, auth, functions
 
-### V3 Solution (January 2024 - May 2024)
-- Developed and maintained various GUIs
-- Implemented **React Native** navigation solutions
-- Integrated **Firebase** for storage, authentication, and database management
+### V3 Solution | **React Native Developer Intern**  
+*January 2024 – May 2024*
+- 🖥️ Built responsive **GUIs**
+- 🔗 Integrated **Firebase** for database, auth, and storage  
+- 🧭 Implemented **React Native Navigation**
 
-## 💻 Projects
-- **Simple User Interface:** Basic styling and layout design
-- **Random Password Generator:** Secure password generation app
-- **Currency Converter:** Real-time currency exchange rates
-- **Roll the Dice:** Fun, interactive dice-rolling app
-- **Vision Camera & Firebase Integration:** Real-time camera and data integration
-- **Navigation in React Native:** Explored multiple navigation strategies in **React Native**
+---
 
-## 🛠️ Technical Skills
-- **Languages & Tools:** HTML, CSS, JavaScript, React, React Native, Firebase, MongoDB, Node.js, Git/GitHub
-- **Version Control:** Git for version control and collaborative development
+## 🚀 Projects
 
-## 📚 Additional Certifications
-- **Web & Mobile App Development:** Saylani Mass IT Training Program
-- **Artificial Intelligence:** PIAIC (Presidential Initiative for Artificial Intelligence and Computing)
-- **Python for Everybody:** University of Michigan (Coursera)
-- **Data Visualization and Storytelling with Python:** Coursera
+- **Simple UI:** Basic interface design
+- **Password Generator:** Random password creation tool
+- **Currency Converter:** Real-time rates with API integration
+- **Roll the Dice:** Interactive, fun game app
+- **Vision Camera + Firebase:** Advanced camera functionalities with Firebase
 
-## 📫 Get in Touch
+---
+
+## 📚 Certifications
+- **Web & Mobile App Development** - Saylani Mass IT Training Program
+- **Artificial Intelligence** - PIAIC (Presidential Initiative for AI and Computing)
+- **Python for Everybody** - University of Michigan (Coursera)
+
+---
+
+## 📫 Let's Connect!
 - **Email:** [faisal205.vu@gmail.com](mailto:faisal205.vu@gmail.com)
 - **GitHub:** [faisal8373](https://github.com/faisal8373)
 - **LinkedIn:** [Faisal Javed](https://www.linkedin.com/in/faisal-javed-6193a0a4)
 
-Feel free to reach out if you are interested in collaboration or have any exciting opportunities!
+---
+
+![Code](https://img.shields.io/badge/Code-React--Native-blue?style=for-the-badge&logo=react) ![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)
+
