@@ -1,4 +1,4 @@
-# Faisal Javed 🌟 | React Native Mobile App Developer
+# Faisal Javed 🌟 | MERN | React Native Mobile App Developer
 
 **Passionate about building modern, innovative mobile applications.** I specialize in **React Native** and the **MERN Stack**, with experience in creating seamless user experiences and integrating cutting-edge technologies.
 
